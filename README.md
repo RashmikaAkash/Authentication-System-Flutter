@@ -23,7 +23,7 @@ This project demonstrates how to implement a **secure authentication system** us
 ### Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/RashmikaAkash/Authentication-System-Flutter.git
    ```
 2. Navigate to the project directory:
    ```bash
